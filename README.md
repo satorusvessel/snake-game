@@ -1,6 +1,6 @@
 ## Play the Game!
 Download the game and enjoy:
-- [Download Snake Game (.exe)](https://mega.nz/file/VwomzA4Y#DhNJ_3WLYU28mAFxZiO9nfq53IAyCdKtbw7ffTmMKdY)
+- [Download Snake Game (.exe)](https://mega.nz/file/MoYymIza#yxU9UAxcmbmjYg0xGKWDF2ah8jKfBQVNmtupmIaXVdU)
 
 Features
 
