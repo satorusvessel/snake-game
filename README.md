@@ -38,4 +38,4 @@ Play Without Coding
 
 Don't have Python installed? No problem! Download the standalone .exe file and play the game directly on your PC:
 
-[Download Snake Game (.exe)]([https://drive.google.com/file/d/1cod-nVKfLEWi67ne3LUIcuotOTmWCpU8/view?usp=sharing](https://mega.nz/file/VwomzA4Y#DhNJ_3WLYU28mAFxZiO9nfq53IAyCdKtbw7ffTmMKdY))
+[Download Snake Game (.exe)](https://mega.nz/file/MoYymIza#yxU9UAxcmbmjYg0xGKWDF2ah8jKfBQVNmtupmIaXVdU)
